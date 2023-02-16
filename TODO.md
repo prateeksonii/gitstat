@@ -13,6 +13,8 @@ It should look good, be responsive and the code should follow the standards.
 
 ## TODO
 
+[] Fork this repo to your account and clone it.
+[] Initialize a react application in the same folder. Call it `app`.
 [] Create a landing page, with a good-looking hero section describing the application.
 [] Add a text input below the hero section to enter the github username.
 [] Add a form surrounding the input, which when submitted, should navigate you the a new page, call it /[username].
